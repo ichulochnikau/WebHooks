@@ -6,6 +6,5 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore" Version="$(MicrosoftAspNetCorePackageVersion)" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.DataAnnotations" Version="$(MicrosoftAspNetCoreMvcDataAnnotationsPackageVersion)" />
-    <ProjectReference Include="..\..\src\Microsoft.AspNetCore.WebHooks.Receivers.BitBucket\Microsoft.AspNetCore.WebHooks.Receivers.BitBucket.csproj" />
   </ItemGroup>
 </Project>

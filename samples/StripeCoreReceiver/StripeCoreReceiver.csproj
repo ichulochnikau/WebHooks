@@ -5,6 +5,5 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore" Version="$(MicrosoftAspNetCorePackageVersion)" />
-    <ProjectReference Include="..\..\src\Microsoft.AspNetCore.WebHooks.Receivers.Stripe\Microsoft.AspNetCore.WebHooks.Receivers.Stripe.csproj" />
   </ItemGroup>
 </Project>

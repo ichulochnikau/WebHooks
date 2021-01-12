@@ -4,7 +4,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Microsoft.AspNetCore.WebHooks.Receivers.Trello\Microsoft.AspNetCore.WebHooks.Receivers.Trello.csproj" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="$(MicrosoftExtensionsConfigurationPackageVersion)" />
   </ItemGroup>
 </Project>

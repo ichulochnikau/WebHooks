@@ -4,6 +4,7 @@
   </PropertyGroup>
 
   <PropertyGroup Label="Package Versions">
+    <InternalAspNetCoreSdkPackageVersion>3.0.0-alpha1-20181004.7</InternalAspNetCoreSdkPackageVersion>
     <MicrosoftAspNetCoreMvcCorePackageVersion>2.2.0</MicrosoftAspNetCoreMvcCorePackageVersion>
     <MicrosoftAspNetCoreMvcDataAnnotationsPackageVersion>2.2.0</MicrosoftAspNetCoreMvcDataAnnotationsPackageVersion>
     <MicrosoftAspNetCoreMvcFormattersJsonPackageVersion>2.2.0</MicrosoftAspNetCoreMvcFormattersJsonPackageVersion>
